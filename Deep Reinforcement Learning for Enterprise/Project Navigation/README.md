@@ -1,3 +1,7 @@
+[//]: # (Image References)
+
+[image3]: https://github.com/brongix/Udacity/blob/master/Deep%20Reinforcement%20Learning%20for%20Enterprise/Project%20Navigation/Agent%20Training.gif "Trained Agent"
+
 # Project 1: Navigation
 
 This is the first project in a series of projects linked to the *Deep Reinforcement Learning for Enterprise Nanodegree Program* at *Udacity*.
@@ -7,6 +11,8 @@ This is the first project in a series of projects linked to the *Deep Reinforcem
 ## Project Details
 
 For this project, I trained an agent to navigate and collect bananas in a large squared world.  
+
+![Trained Agent][image3]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VlgFuyv_-9c?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
