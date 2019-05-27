@@ -1,6 +1,8 @@
 [//]: # (Image References)
 
-[image3]: https://github.com/brongix/Udacity/blob/master/Deep%20Reinforcement%20Learning%20for%20Enterprise/Project%20Navigation/Agent%20Training.gif "Trained Agent"
+[image1]: https://github.com/brongix/Udacity/blob/master/Deep%20Reinforcement%20Learning%20for%20Enterprise/Project%20Navigation/Untrained%20Agent.gif "Untrained Agent"
+[image2]: https://github.com/brongix/Udacity/blob/master/Deep%20Reinforcement%20Learning%20for%20Enterprise/Project%20Navigation/Agent%20Training.gif "Agent Training"
+[image3]: https://github.com/brongix/Udacity/blob/master/Deep%20Reinforcement%20Learning%20for%20Enterprise/Project%20Navigation/Trained%20DQN%20Agent.gif "Trained Agent"
 
 # Project 1: Navigation
 
@@ -64,20 +66,20 @@ The notebook is devided in three parts:
 1. System, environement, agent get initialised and explored 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaF6uVCsZ0Y?controls=0" ; frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Untrained Agent][image1]
 
  <br/><br/> 
   
 
 2. DQN Agent gets trained until it solves the environment
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4oqYECDkCBc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Agent Training][image2]
 
 <br/><br/>
 
 3. And finally we get to see how a trained DQN Agent performs in the environment
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VlgFuyv_-9c?controls=0&amp;start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Trained Agent][image3]
 
 <br/><br/>
 <br/><br/>
