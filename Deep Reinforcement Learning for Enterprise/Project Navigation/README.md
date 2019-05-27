@@ -12,11 +12,10 @@ This is the first project in a series of projects linked to the *Deep Reinforcem
 
 ## Project Details
 
-For this project, I trained an agent to navigate and collect bananas in a large squared world.  
+For this project, I trained an agent to navigate and collect bananas in a large squared world. 
 
-![Trained Agent][image3]
+[![Trained DQN Agent](https://img.youtube.com/vi/VlgFuyv_-9c/hqdefault.jpg)](https://www.youtube.com/embed/VlgFuyv_-9c?controls=0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VlgFuyv_-9c?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of the agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
@@ -67,19 +66,23 @@ The notebook is devided in three parts:
 
 
 ![Untrained Agent][image1]
+[YouTube link](https://www.youtube.com/embed/KaF6uVCsZ0Y?controls=0)
 
  <br/><br/> 
   
 
 2. DQN Agent gets trained until it solves the environment
 
-![Agent Training][image2]
 
+![Agent Training][image2]
+[YouTube link](https://www.youtube-nocookie.com/embed/4oqYECDkCBc?controls=0)
 <br/><br/>
 
 3. And finally we get to see how a trained DQN Agent performs in the environment
 
 ![Trained Agent][image3]
+
+[YouTube link](https://www.youtube.com/embed/VlgFuyv_-9c?controls=0)
 
 <br/><br/>
 <br/><br/>
