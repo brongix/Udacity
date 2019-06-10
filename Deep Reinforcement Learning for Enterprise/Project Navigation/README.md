@@ -5,8 +5,10 @@
 [image3]: https://github.com/brongix/Udacity/blob/master/Deep%20Reinforcement%20Learning%20for%20Enterprise/Project%20Navigation/Trained%20DQN%20Agent.gif "Trained Agent"
 
 
-### Currently solved with a Tuned Double DNQ-model on average in *193 episodes*.
-### Shortest learning cycle to date *46 episodes*.
+#### Currently solved with a Tuned Double DNQ-model on average in *193 episodes*.
+#### Shortest learning cycle to date *46 episodes*.
+
+# 
 
 # Project 1: Navigation
 
