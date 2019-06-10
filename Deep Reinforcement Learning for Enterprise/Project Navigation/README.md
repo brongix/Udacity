@@ -8,6 +8,8 @@
 
 This is the first project in a series of projects linked to the *Deep Reinforcement Learning for Enterprise Nanodegree Program* at *Udacity*.
 
+** Currently solved with a Tuned Double DNQ-model on average in 193 episodes.**
+** Shortest learning cycle to date 46 episodes **
 
 
 ## Project Details
