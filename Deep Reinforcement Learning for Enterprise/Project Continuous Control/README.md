@@ -5,8 +5,8 @@
 [image3]: https://github.com/brongix/Udacity/blob/master/Deep%20Reinforcement%20Learning%20for%20Enterprise/Project%20Continuous%20Control/twenty_agents.gif "Twenty Agents"
 
 
-#### Currently solved with a Tuned D3PG model on average in less than *100 episodes*.
-#### Shortest learning cycle to date *46 episodes*.
+#### Currently solved with a Tuned D3PG model on average in less than *25 episodes*.
+#### Shortest learning session to date *19 episodes*.
 
 # 
 
